@@ -1,0 +1,59 @@
+# $XDG_CONFIG_HOME/k9s/vaporwave.yaml
+k9s:
+  body:
+    fgColor: "#ff91af"
+    bgColor: "#00000"
+    logoColor: "#00f5d4"
+
+  info:
+    fgColor: "#ff61c6"
+    sectionColor: "#8a2be2"
+
+  frame:
+    border:
+      fgColor: "#ff61c6"
+      focusColor: "#7fffd4"
+
+    menu:
+      fgColor: "#ffb6c1"
+      keyColor: "#00f5d4"
+      numKeyColor: "#ba55d3"
+
+    crumbs:
+      fgColor: "#e6e6fa"
+      bgColor: "#483d8b"
+      activeColor: "#ff69b4"
+
+    status:
+      newColor: "#32cd32"
+      modifyColor: "#add8e6"
+      addColor: "#40e0d0"
+      errorColor: "#ff4500"
+      highlightColor: "#800080"
+      killColor: "#ff6347"
+      completedColor: "#778899"
+
+    title:
+      fgColor: "#00ffff"
+      bgColor: "#00000"
+      highlightColor: "#ff69b4"
+      counterColor: "#7fffd4"
+      filterColor: "#dda0dd"
+
+  views:
+    table:
+      fgColor: "#ffd700"
+      bgColor: "#00000"
+      cursorColor: "#00ffff"
+      header:
+        fgColor: "#ff69b4"
+        bgColor: "#2d2d2d"
+        sorterColor: "#ffa07a"
+    yaml:
+      keyColor: "#ba55d3"
+      colonColor: "#ff69b4"
+      valueColor: "#7fffd4"
+
+    logs:
+      fgColor: "#e0ffff"
+      bgColor: "#000080"
